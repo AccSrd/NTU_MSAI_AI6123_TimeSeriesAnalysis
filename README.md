@@ -35,7 +35,7 @@ Type | Topic | Grade
 ------------ | ------------- | ---
 Project 1 | ‘wwwusage’ Data Analysis | N.A. / 33.0
 Project 2 | Drug Sales Data Analysis | N.A. / 33.0
-Project 3 | N.A. | N.A. / 33.0
+Project 3 | Apple Stock Prices Analysis | N.A. / 33.0
 ---
 ### **====== A C K N O W L E D G E M E N T ======**
 
