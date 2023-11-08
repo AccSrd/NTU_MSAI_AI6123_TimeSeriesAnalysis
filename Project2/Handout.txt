@@ -1,7 +1,0 @@
-Dear all, 
-This data is for monthly anti-diabetic drug sales in Australia from 1992 to 2008. 
-Total monthly scripts for pharmaceutical products falling under ATC code A10, as recorded by the Australian Health Insurance Commission. 
-Please build a good model to predict the drug sales.
-It is due on 27 March.
-regards
-GM

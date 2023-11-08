@@ -1,6 +1,0 @@
-Dear all, 
-The wwwusage  time series data consist of  the number of users connected to the internet through a server.
-The data are collected at a time interval of one minute and there are 100 observations.
-Please fit an appropriate ARIMA model for it and submit a short report including R codes, the fitted model, the diagnostic checking, AIC, etc.
-regards
-GM
